@@ -8,7 +8,7 @@ function home() {
     return (
         <div className="home">
             <Container className="homebod">
-            <img className= "background" img src= "/assets/ipad3.jpg"/>
+            <img className= "background" img src= "./assets/ipad3.jpg"/>
             <div className= "text">
             <h1 className= "name" >Amna Mughal</h1>
             <h2 className= "description">Student, Designer, Aspiring Engineer.</h2>
