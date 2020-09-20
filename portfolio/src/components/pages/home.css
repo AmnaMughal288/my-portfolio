@@ -1,0 +1,91 @@
+.background{
+    position: absolute;
+    width: 100%;
+
+    max-height: 100%;
+    z-index: -999;
+    overflow-y: hidden;
+    display:block;
+    object-fit: cover;
+    
+    
+}
+.homebod{
+    height:100vh;
+    width:80%;
+}
+
+.home{
+    height: 100vh;
+}
+.text{
+   margin-top: 7%;
+    text-align: center;
+    padding: 5px;
+    color: #ffffff;
+}
+.name{
+    text-align: center;
+    font-weight: 500;
+    font-size: 100px;
+    margin-top: 11%;
+    
+}
+.description{
+    font-weight: 350;
+    font-size: 50px;
+    margin-top: 5%;
+}
+.Button2:focus, .Button2:active {
+    outline: none !important;
+    
+  }
+.Button2{
+    border-radius: 600px;
+    margin-top: 5%;
+    width:26vh;
+    height: 6vh;
+    border-width: 0px;
+    background:#f5f5f5;
+    opacity: 50%;
+    color:transparent;
+    font-size:3vh;
+    font-weight: 500;
+
+}
+.Button2:hover{
+    
+    opacity: 100%;
+
+}
+@media screen and (max-width: 1500px){
+
+    .background{
+        image-orientation: 180deg;
+        min-height: 100vh;
+       
+        object-fit: cover;
+        
+    }
+    .text{
+   
+        text-align: center;
+        padding: 15px;
+        color: #ffffff;
+    }
+    .name{
+        text-align: center;
+        font-weight: 500;
+        font-size: 90px;
+        margin-top: 10%;
+        
+    }
+    .description{
+        font-weight: 100;
+        font-size: 40px;
+        margin-top: 2%;
+    }
+    
+    
+
+}

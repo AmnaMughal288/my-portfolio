@@ -1,0 +1,76 @@
+.projects{
+    border-radius: 30px;
+    width: 80%;
+    height: 30px;
+
+
+}
+.Button:focus, .Button:active {
+    outline: none !important;
+    
+  }
+.Button{
+    border-radius: 13px;
+    margin-right: 5%;
+    width:7vh;
+    height: 7vh;
+    border-width: 0px;
+    background:#f5f5f5;
+    box-shadow:  4px 4px 8px #c9c9c9, 
+             -4px -4px 8px #ffffff;
+    
+
+}
+Button:hover{
+    background: linear-gradient(145deg, #dddddd, #ffffff);
+
+    transition: all 0.2s ease-out;
+    color:#f5f5f5;
+    
+}
+.Buttonimg{
+    height:70%;
+    vertical-align:middle;
+}
+.Buttonimg:hover{
+    height: 50%;
+    transition: all 0.2s ease-out;
+}
+.title{
+    text-align: center;
+    margin-top: 4%;
+    
+}
+.background2{
+    background-color: #f5f5f5;
+    width: 100%;
+    position: absolute;
+    z-index: -999;
+    height: auto;
+}
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+   
+
+}
+img.rounded-corners {
+    border-radius: 30px;
+  }
+.proj{
+    margin: 3.6%;
+    box-sizing: border-box;
+    border-width:0px;
+    background:#f5f5f5;
+    border-radius: 30px;
+    box-shadow:  20px 20px 60px #d0d0d0, 
+    -20px -20px 60px #ffffff;
+    
+    
+  
+    
+}
