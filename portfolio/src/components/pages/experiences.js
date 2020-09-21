@@ -16,7 +16,7 @@ function experiences() {
                         At HiRide, I worked on several frontend and design projects using React, HTML, CSS, and Figma. 
                         I designed marketing graphics and a successful marketing campaign for the launch of the HiQ Trivia App that lead to 1.5 million+ downloads in less than 2 months of launch. 
                         I also designed the UI/UX of the HiQ App, as well as new gaming features, which resulted in 500,000 monthly active users and ranking top 10 in the Trivia app category in 100+ countries.
-                        Additionally, I developed product specifications, product roadmaps, wireframes and high-fidelity prototypes, as well as, business proposals which were used to demo and successfully pitch to Key Stakeholders and Clients including the Federal Governement.
+                        Additionally, I developed product specifications, product roadmaps, wireframes and high-fidelity prototypes, as well as, business proposals which were used to demo and successfully pitch to key stakeholders and potential clients.
                         I learned to work in a fast paced environment and communicate within an interdisciplinary team of engineers, designers, developers, and business personnel.
               </p>  
             </Container>

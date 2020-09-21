@@ -9,7 +9,7 @@ function projects() {
     return (
         <div className= "background2">
              <h1 className= "title">P R O J E C T S</h1>
-             
+             <br></br>
         <div className= "container">
            
           <Card className= "proj" style={{ width: '18rem' }}>
